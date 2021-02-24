@@ -1,3 +1,4 @@
+
 header > ul  {
     list-style-type: none ;
     margin: 0;
@@ -5,6 +6,7 @@ header > ul  {
 }
 header > ul > li {
     display: inline;
+    color:teal;
 }
 
 h1 {
@@ -17,6 +19,7 @@ header{
 }
 body {
     background-color: powderblue;
+    font-family:Montserrat regular;
 }
 h1 ~ p{
     background-color: silver;
@@ -41,4 +44,12 @@ section{
 }
 h1{
     background-color: silver;
+    font-family:Indie Flower;
+}
+
+:link {
+    color:rgb(53,8,80);
+}
+:visited {
+    color:silver;
 }
