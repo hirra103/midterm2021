@@ -18,7 +18,7 @@ header{
 body {
     background-color: powderblue;
 }
-p{
+h1 ~ p{
     background-color: silver;
 }
 ul ~ img{
@@ -37,5 +37,8 @@ header >p ~ ul {
     background-color: saddlebrown;
 }
 section{
+    background-color: silver;
+}
+h1{
     background-color: silver;
 }
