@@ -1,0 +1,19 @@
+header > ul  {
+    list-style-type: none ;
+    margin: 0;
+    padding: 0;
+}
+header > ul > li {
+    display: inline;
+}
+
+h1 {
+    text-align: center;
+}
+
+header {
+    text-align: center;
+}
+header {
+    background-color:saddlebrown
+}
